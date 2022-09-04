@@ -1,0 +1,12 @@
+spring.datasource.url= jdbc:sqlserver://127.0.0.1;databaseName=YOUR_DB
+spring.datasource.username= YOUR_USER
+spring.datasource.password= YOUR_PASSWORD
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.SQLServer2012Dialect
+management.endpoints.web.exposure.include=*
+
+info.app.name=@project.name@
+info.app.description=@project.description@
+info.app.version=@project.version@
+info.app.encoding=@project.build.sourceEncoding@
+info.app.java.version=@java.version@
