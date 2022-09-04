@@ -13,3 +13,8 @@ Ejemplos utilizados para crear este proyecto
 - ACTUATOR
   - https://www.callicoder.com/spring-boot-actuator/
   - https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator.endpoints.exposing
+
+## Run Spring Boot application
+```
+mvn spring-boot:run
+```
