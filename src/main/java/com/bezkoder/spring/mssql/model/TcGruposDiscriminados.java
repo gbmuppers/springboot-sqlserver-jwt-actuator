@@ -2,13 +2,11 @@ package com.bezkoder.spring.mssql.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * The persistent class for the v_RepFE database table.
+ * The persistent class for the TC_GRUPOS_DISCRIMINADOS database table.
  * 
  */
 /**
